@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 562f67286bf4a40ceb60ffa14132a089
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Science Project
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 70e75d44431fa40e1b8dd49c9e9e4947, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
